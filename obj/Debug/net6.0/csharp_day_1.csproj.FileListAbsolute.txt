@@ -1,0 +1,15 @@
+C:\source\codeworks\winter-21\csharp_day_1\bin\Debug\net6.0\csharp_day_1.exe
+C:\source\codeworks\winter-21\csharp_day_1\bin\Debug\net6.0\csharp_day_1.deps.json
+C:\source\codeworks\winter-21\csharp_day_1\bin\Debug\net6.0\csharp_day_1.runtimeconfig.json
+C:\source\codeworks\winter-21\csharp_day_1\bin\Debug\net6.0\csharp_day_1.dll
+C:\source\codeworks\winter-21\csharp_day_1\bin\Debug\net6.0\ref\csharp_day_1.dll
+C:\source\codeworks\winter-21\csharp_day_1\bin\Debug\net6.0\csharp_day_1.pdb
+C:\source\codeworks\winter-21\csharp_day_1\obj\Debug\net6.0\csharp_day_1.csproj.AssemblyReference.cache
+C:\source\codeworks\winter-21\csharp_day_1\obj\Debug\net6.0\csharp_day_1.GeneratedMSBuildEditorConfig.editorconfig
+C:\source\codeworks\winter-21\csharp_day_1\obj\Debug\net6.0\csharp_day_1.AssemblyInfoInputs.cache
+C:\source\codeworks\winter-21\csharp_day_1\obj\Debug\net6.0\csharp_day_1.AssemblyInfo.cs
+C:\source\codeworks\winter-21\csharp_day_1\obj\Debug\net6.0\csharp_day_1.csproj.CoreCompileInputs.cache
+C:\source\codeworks\winter-21\csharp_day_1\obj\Debug\net6.0\csharp_day_1.dll
+C:\source\codeworks\winter-21\csharp_day_1\obj\Debug\net6.0\ref\csharp_day_1.dll
+C:\source\codeworks\winter-21\csharp_day_1\obj\Debug\net6.0\csharp_day_1.pdb
+C:\source\codeworks\winter-21\csharp_day_1\obj\Debug\net6.0\csharp_day_1.genruntimeconfig.cache
